@@ -4,6 +4,10 @@ This is a group project focused on creating a database system for a hotel and re
 
 The system helps manage hotel information, including guests, employees, rooms, reservations, services, and payments.
 
+## Team Members
+- Kanravi Charoentanaset
+- Thu Ta Naing
+
 ## Project Features
 - Manage guest information
 - Manage employee information
@@ -43,6 +47,4 @@ This project was developed as part of a university course.
 - Reservation
 <img width="1470" height="729" alt="Screenshot 2569-11-18 at 13 09 59" src="https://github.com/user-attachments/assets/44aeae02-cfbf-4c25-b313-081b390eaf65" />
 
-## Team Members
-- Kanravi Charoentanaset
-- Thu Ta Naing
+
