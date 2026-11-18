@@ -8,6 +8,10 @@ The system helps manage hotel information, including guests, employees, rooms, r
 - Kanravi Charoentanaset
 - Thu Ta Naing
 
+## Roles
+- Kanravi: create oracle application
+- Thu Ta Naing: Database and ERD Diagram
+
 ## Project Features
 - Manage guest information
 - Manage employee information
