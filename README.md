@@ -47,4 +47,7 @@ This project was developed as part of a university course.
 - Reservation
 <img width="1470" height="729" alt="Screenshot 2569-11-18 at 13 09 59" src="https://github.com/user-attachments/assets/44aeae02-cfbf-4c25-b313-081b390eaf65" />
 
+## ERD Diagram
+- Show the relationship, tables and data
+<img width="788" height="1019" alt="Final result ERD" src="https://github.com/user-attachments/assets/21c2b3c5-5ea5-44e0-8a87-f01315700db2" />
 
